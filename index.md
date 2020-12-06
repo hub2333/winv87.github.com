@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 这是一个简单的开始
 
-You can use the [editor on GitHub](https://github.com/hub2333/winv87.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    Windows桌面满了, 打包文件夹命名为2020-12-01桌面，存放在E盘N个类型的文件夹列表中...
+    一个全新的桌面诞生, 心情又愉悦了许多...
+    也许日复一日的积累也随着打包桌面压在了仓库里...
+    Github个人页也许可以承载我的工具书和突如其来的好想法... 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工具书
 
-### Markdown
+    也许记得住Arthas的sc | trace | watch | ognl , 但是记不住对象映射 | 火焰图呢, 哪怕就两个单词...
+    也许记得住Stream的map | flatmap | filter , 但是记不住reduce...
+    也许记得住Linux的cd | tail | cat | grep , 但是记不住netsate | find, 除非你的项目经常裂开...
+    总结一个简单的工具书, 不迷茫雷同的博客园、CSDN、简书
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hub2333/winv87.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Good Idea
+    车站里看了一篇Flink技术博客, 灵感一瞬间迸发, 我的模块也可以怎样怎样...
+    轻松一下, 看了看Spring的家族继承关系, 突然得我的模块也可以如何如何抽象... `别做傻事`
+    脑海太忙了, 信息太短暂...  
+    
